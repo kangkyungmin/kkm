@@ -7,10 +7,10 @@ public class Ice implements Ame{
 	}
 	
 	public void CoffeeOn() {
-		System.out.println("Ice Ame 만들기");
+		System.out.println("Ice Ame 추출");
 	}
 	public void CoffeeOff() {
-		System.out.println("Ice Ame 안만들기");
+		System.out.println("Ice Ame 정지");
 	}
 
 

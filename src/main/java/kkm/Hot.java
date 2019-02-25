@@ -7,10 +7,10 @@ public class Hot implements Ame{
 	}
 	
 	public void CoffeeOn() {
-		System.out.println("Hot Ame 만들기");
+		System.out.println("Hot Ame 추출");
 	}
 	public void CoffeeOff() {
-		System.out.println("Hot Ame 안만들기");
+		System.out.println("Hot Ame 정지");
 	}
 
 
